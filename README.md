@@ -1,6 +1,6 @@
 # SamurAICoding2014
 
-情報処理学会SamurAI Coding 2014-15に提出したAIです。予選落ちの雑魚です。
+情報処理学会SamurAI Coding 2014にSamuragouchi2として提出したAIです。予選落ちの雑魚です。
 
 http://samuraicoding.info/
 
